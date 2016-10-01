@@ -1,1 +1,22 @@
-Only intended to trigger webhook
+# generator info
+group: atomist-project-templates
+artifact: rest-service
+version: 1.2.1
+
+# backing git repo
+repo: git@github.com:atomist-project-templates/rest-service.git
+branch: master
+sha: 38d28414217fa56bdbea60326745a4e9c23c15b5
+
+# parameter values
+service_class_name: MyService
+visibility: public
+org: atomisthqa
+group_id: mygroup
+user-id: U1L8JQMTJ
+description: My new project
+project_name: jim109
+artifact_id: myartifact
+version: 0.0.1-SNAPSHOT
+root_package: com.myorg
+team-id: T1L0VDKJP
